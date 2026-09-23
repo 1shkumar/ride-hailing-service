@@ -15,15 +15,19 @@ Make sure Python 3.10+ is installed before running the project.
 ## Create and activate a virtual environment
 
 ### Windows (PowerShell):
+```bash
 
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 
+```
 ### macOS / Linux:
 
+```bash
 python3 -m venv .venv 
 source .venv/bin/activate
 
+```
 ## Running it
 
 ```bash
